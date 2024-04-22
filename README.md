@@ -10,8 +10,6 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Angular, Typescript**
-
   📄 My Linked In Profile: **[Giorgio's Linked In Profile](https://www.linkedin.com/in/giorgio-mosca/)**
 
   📫 How to reach me: giorgiomosca2@gmail.com
